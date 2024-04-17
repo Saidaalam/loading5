@@ -1,0 +1,137 @@
+{
+    "estates": [
+      {
+        "id": 1,
+        "estate_title": "Luxury Beachfront Villa",
+        "segment_name": "luxury",
+        "description": "Experience the epitome of luxury living with breathtaking ocean views and unparalleled amenities.",
+        "price": "$5,000,000",
+        "status": "sale",
+        "area": "5000 sq ft",
+        "location": "Malibu, California",
+        "facilities": ["Beachfront properties", "Villas", "Mansions"],
+        "image": "https://i.postimg.cc/hvNfVQC5/beach5.png",
+        "button": "View Property",
+        "reviews": [
+          {
+            "client": "Susan Barkley",
+            "review": "The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication.",
+            "role": "Happy Seller",
+            "client_pic": "https://i.ibb.co/z8zx95w/pexels-davide-de-giovanni-1649675.jpg",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "estate_title": "Private Island Retreat",
+        "segment_name": "luxury",
+        "description": "Escape to your own private paradise with exclusive access to a pristine island and luxurious accommodations.",
+        "price": "$10,000,000",
+        "status": "sale",
+        "area": "10000 sq ft",
+        "location": "Bora Bora, French Polynesia",
+        "facilities": ["Private Islands", "Resorts"],
+        "image": "https://i.postimg.cc/1zWVbShw/beach4.png",
+        "button": "View Property",
+        "reviews": [
+          {
+            "client": "John Doe",
+            "review": "Absolutely breathtaking location with top-notch service. Couldn't be happier with my purchase!",
+            "role": "Satisfied Buyer",
+            "client_pic": "https://i.ibb.co/0QRxkd5/pexels-jan-kop-iva-3525908.jpg",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "estate_title": "Magnificent Mountain Estate",
+        "segment_name": "luxury",
+        "description": "Indulge in the splendor of nature with this stunning mountain retreat offering panoramic views and unparalleled serenity.",
+        "price": "$7,500,000",
+        "status": "sale",
+        "area": "8000 sq ft",
+        "location": "Aspen, Colorado",
+        "facilities": ["Mountain Properties", "Villas", "Mansions"],
+        "image": "https://i.postimg.cc/xdx2hDKv/mountain4.png",
+        "button": "View Property",
+        "reviews": [
+          {
+            "client": "Emily Johnson",
+            "review": "The perfect escape from city life. This mountain estate exceeded all my expectations. Highly recommend!",
+            "role": "Happy Buyer",
+            "client_pic": "https://i.ibb.co/wYxp7d6/pexels-spencer-selover-428328.jpg",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "estate_title": "Exclusive Penthouse in the Sky",
+        "segment_name": "luxury",
+        "description": "Live above the city in this luxurious penthouse offering stunning skyline views and top-of-the-line amenities.",
+        "price": "$3,500,000",
+        "status": "sale",
+        "area": "3000 sq ft",
+        "location": "New York City, New York",
+        "facilities": ["Penthouse", "City Views"],
+        "image": "https://i.postimg.cc/TwL1SWcv/penthouse2.png",
+        "button": "View Property",
+        "reviews": [
+          {
+            "client": "Michael Smith",
+            "review": "Unmatched luxury and convenience. The penthouse living at its finest. Thank you, WP Estate!",
+            "role": "Happy Buyer",
+            "client_pic": "https://i.ibb.co/b7GT5nt/pexels-apunto-group-agencia-de-publicidad-7752813.jpg",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "estate_title": "Secluded Mountain Lodge",
+        "segment_name": "luxury",
+        "description": "Retreat to the mountains in style with this secluded lodge featuring rustic charm and modern amenities.",
+        "price": "$2,000,000",
+        "status": "sale",
+        "area": "4000 sq ft",
+        "location": "Lake Tahoe, California",
+        "facilities": ["Mountain Properties", "Resorts"],
+        "image": "https://i.postimg.cc/RZLHQfgP/mountain2.png",
+        "button": "View Property",
+        "reviews": [
+          {
+            "client": "Sarah Williams",
+            "review": "The perfect getaway spot! I can't wait to return to this beautiful lodge. Highly recommended!",
+            "role": "Happy Renter",
+            "client_pic": "https://i.ibb.co/pjM6Ybr/pexels-anastasia-shuraeva-9607206.jpg",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "estate_title": "Coastal Mansion",
+        "segment_name": "luxury",
+        "description": "Live the coastal lifestyle in this grand mansion offering sweeping ocean views and luxurious living spaces.",
+        "price": "$8,500,000",
+        "status": "sale",
+        "area": "7000 sq ft",
+        "location": "Miami Beach, Florida",
+        "facilities": ["Beachfront Properties", "Mansions"],
+        "image": "https://i.postimg.cc/9FXwpzq1/penthouse3.png",
+        "button": "View Property",
+        "reviews": [
+          {
+            "client": "David Wilson",
+            "review": "The epitome of luxury living! This coastal mansion exceeded all expectations. Thank you!",
+            "role": "Satisfied Buyer",
+            "client_pic": "https://i.ibb.co/hC2CtK2/pexels-monstera-production-7412067.jpg",
+            "rating": 4.8
+          }
+        ]
+      }
+    ]
+  }
+  
