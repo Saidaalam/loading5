@@ -1,6 +1,7 @@
 import NavBar from "../shared/Navbar/Navbar";
 import Footer from "../shared/Footer/Footer";
 import { useEffect } from "react";
+import contactPic from '../../../../images/contact.png';
 
 const Contact = () => {
     useEffect(() =>{
@@ -17,7 +18,7 @@ const Contact = () => {
                 <h2 className="text-4xl font-bold leading-tight lg:text-5xl">Let's talk!</h2>
                 <div className="dark:text-gray-600">We are always ready to serve you the best</div>
             </div>
-            <img className="mt=2" src="../../../../images/contact.png" />
+            <img className="mt=2" src={contactPic} />
         </div>
         <form noValidate="" className="space-y-6 mt-14">
             <div>
