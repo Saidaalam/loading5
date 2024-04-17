@@ -1,4 +1,8 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
+import slider1 from '../../../../images/private.png';
+import slider2 from '../../../../images/penthouse.png';
+import slider3 from '../../../../images/beachSide.png';
+import slider4 from '../../../../images/mansion.png';
 import 'swiper/css';
 import 'animate.css';
 
@@ -11,7 +15,7 @@ const Slider = () => {
       onSwiper={(swiper) => console.log(swiper)}
     >
       <SwiperSlide>
-    <div className="hero min-h-screen" style={{backgroundImage: 'url(images/private.png)'}}>
+    <div className="hero min-h-screen" style={{backgroundImage: `url(${slider1})`}}>
     <div className="hero-overlay bg-opacity-45"></div>
     <div className="hero-content text-center text-neutral-content">
     <div className="w-full">
@@ -23,7 +27,7 @@ const Slider = () => {
     </div>
 </SwiperSlide>
       <SwiperSlide>
-      <div className="hero min-h-screen" style={{backgroundImage: 'url(images/penthouse.png)'}}>
+      <div className="hero min-h-screen" style={{backgroundImage: `url(${slider2})`}}>
     <div className="hero-overlay bg-opacity-50"></div>
     <div className="hero-content text-center text-neutral-content">
     <div className="w-full">
@@ -35,7 +39,7 @@ const Slider = () => {
     </div>
       </SwiperSlide>
       <SwiperSlide>
-      <div className="hero min-h-screen" style={{backgroundImage: 'url(images/beachSide.png)'}}>
+      <div className="hero min-h-screen" style={{backgroundImage: `url(${slider3})`}}>
     <div className="hero-overlay bg-opacity-50"></div>
     <div className="hero-content text-center text-neutral-content">
     <div className="w-full">
@@ -47,7 +51,7 @@ const Slider = () => {
     </div>
       </SwiperSlide>
       <SwiperSlide>
-      <div className="hero min-h-screen" style={{backgroundImage: 'url(images/mansion.png)'}}>
+      <div className="hero min-h-screen" style={{backgroundImage: `url(${slider4})`}}>
     <div className="hero-overlay bg-opacity-50"></div>
     <div className="hero-content text-center text-neutral-content">
     <div className="w-full">
